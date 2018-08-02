@@ -1,5 +1,4 @@
-#! /usr/bin/python3
-# lucky.py - one click, multiple tab google search
+#! /usr/bin/python3.6
 
 import requests, sys, webbrowser, bs4
 
